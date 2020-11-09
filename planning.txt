@@ -1,0 +1,20 @@
+Classes Needed:
+- Game
+    # of Players
+    Board
+    Winner
+
+- Board
+    Boundaries
+    Points
+
+
+- Players
+    Name
+    Score
+    Piece Color
+    Flick()
+
+- Pieces
+    Color
+    Movement()

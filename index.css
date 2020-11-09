@@ -1,0 +1,74 @@
+body {
+    margin: .5em;
+    background-color: chocolate;
+}
+
+h1 {
+    text-align: center;
+}
+
+input,#startButton {
+    padding: .75em;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 13px;
+}
+
+.playerList {
+    padding: .75em;
+    font-size: 18px;
+    color: black;
+    border-radius: 13px;
+}
+
+#startButton {
+    display: block;
+}
+#startButton {
+    text-align: center;
+}
+
+#gameboard {
+    height: 30em;
+    width: 30em;
+    background-color: antiquewhite;
+    border-radius: 50%;
+    display: none;
+    text-align: center;
+    margin-left: 50%;
+    margin-right: 2em;
+    clear: right;
+}
+
+.playerList {
+    float: left;
+    margin-top: 3em;
+    margin-left: 2em;
+}
+
+div#players {
+    width: 25%;
+    height: 100%;
+    line-height: 75%;
+    background: antiquewhite;
+}
+
+#players {
+    display: none;
+}
+
+#redPlayer {
+    color: red;
+}
+
+#blackPlayer {
+    color: black;
+}
+
+#purplePlayer {
+    color: purple
+}
+
+#bluePlayer {
+    color: blue
+}
